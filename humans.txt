@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Ville Alatalo, @alatalo
+
+# TECHNOLOGY
+    HTML5 boilerplate http://html5boilerplate.com/
+    Normalize.css http://necolas.github.io/normalize.css/
+    WebFont Loader https://developers.google.com/fonts/docs/webfont_loader
+    jQuery https://jquery.org/
+    Supersized https://github.com/buildinternet/supersized
